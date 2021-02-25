@@ -6,4 +6,4 @@
 <img src="/images/image1.png">
 
 # Download now and test Password Generator
-## Realese v1.0 is <a href="https://github.com/GeorgeBacky/passwordGenerator/releases/tag/v1.0">here</a>
+## Release v1.0 is <a href="https://github.com/GeorgeBacky/passwordGenerator/releases/tag/v1.0">here</a>
