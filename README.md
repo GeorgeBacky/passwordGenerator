@@ -1,5 +1,5 @@
 # passwordGenerator
-##Password Generator with C# using Windows Forms .NET Framework 4.7
+## Password Generator with C# using Windows Forms .NET Framework 4.7
 
 <img src="/images/image1.png">
 
